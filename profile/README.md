@@ -1,12 +1,6 @@
-## Hi there 👋
+# Kool Newspaper
 
-<!--
+Sorry that this doc. is formatted badly.
+This is pretty much just an orgainisation to host my friend's newspaper that is pretty bad but still they want me to (they don't have github)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+There's only gonna be like 10+ articles as well
