@@ -1,4 +1,4 @@
-# Kool Newspaper
+# Kool Knewspaper / Knowledge Klan / Klub
 
 By the way, AGUAGWGAGWGA don't edit anything except the data once i tell u how to do it
 
