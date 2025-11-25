@@ -1,4 +1,4 @@
-# Kool Knewspaper / Knowledge Klan / Klub
+# Kool Knewspaper / Knowledge Klan / Klub, creater of KLANKER KRONIKL
 
 By the way, AGUAGWGAGWGA don't edit anything except the data once i tell u how to do it
 
